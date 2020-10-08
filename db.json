@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Sydney",
+      "image": "https://www.pets4homes.co.uk/images/articles/4520/large/getting-to-the-bottom-of-tongue-injuries-in-dogs-5a3fe559133db.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "zuzu",
+      "image": "https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634__340.png",
+      "likes": 24,
+      "id": 10
     }
   ]
 }
